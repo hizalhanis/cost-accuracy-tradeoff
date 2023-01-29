@@ -1,0 +1,14 @@
+metadata_version: 1
+name: Data Wrangling Decision Trees
+description: Data files and codes for producing Decision Trees as described in the
+  paper.
+authors:
+- name: Hizal Hanis Bin Hashim
+  affiliations:
+  - name: University of Manchester
+- name: Sandra Sampaio
+  affiliations:
+  - name: University of Manchester
+- name: Pedro Sampaio
+  affiliations:
+  - name: University of Manchester
