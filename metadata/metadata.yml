@@ -1,5 +1,6 @@
 metadata_version: 1
-name: Data Wrangling Decision Trees
+name: Cost-Accuracy Trade-offs in Data Wrangling Design Strategies for Predictive
+  Analytics
 description: Data files and codes for producing Decision Trees as described in the
   paper.
 authors:
